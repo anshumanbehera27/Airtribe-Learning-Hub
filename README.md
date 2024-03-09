@@ -33,7 +33,7 @@ Airtribe is an online platform designed to facilitate application-based courses,
     - **Lead Update API**: Enables instructors to change the status of leads (applications) to accept, reject, or waitlist them.
     - ![update](https://github.com/anshumanbehera27/Airtribe-Learning-Hub/blob/main/images/instructabletogetUpdate%20the%20Status%20.png)
     - **Add Comment API**: Allows instructors to add comments to leads for internal communication or feedback purposes.
-    - ![addcomment](https://github.com/anshumanbehera27/Airtribe-Learning-Hub/blob/main/images/able%20to%20add%20comment%20.png)
+    - ![addcomment](https://github.com/anshumanbehera27/Airtribe-Learning-Hub/blob/main/images/add24.png)
 
 ## Purpose
 
